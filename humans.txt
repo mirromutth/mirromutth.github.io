@@ -1,0 +1,10 @@
+/* AUTHOR */
+Author: Mirro Mutth
+Site: mirromutth [at] gmail.com
+Twitter: @mirromutth
+
+/* SITE */
+Last update: 2019/09
+Language: English
+Doctype: HTML
+IDE: Visual Studio Code

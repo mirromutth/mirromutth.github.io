@@ -1,0 +1,12 @@
+body {
+  padding: 4px 1em;
+}
+
+#projects {
+  float: left;
+  width: 200px;
+}
+
+#profiles {
+  float: left;
+}
